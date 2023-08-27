@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: barcodes-7.0.4.jar kernel-7.0.4.jar io-7.0.4.jar slf4j-api-1
+ .7.13.jar kernel-7.0.4.jar io-7.0.4.jar slf4j-api-1.7.13.jar sign-7.0.4
+ .jar kernel-7.0.4.jar io-7.0.4.jar layout-7.0.4.jar forms-7.0.4.jar slf
+ 4j-api-1.7.13.jar layout-7.0.4.jar kernel-7.0.4.jar io-7.0.4.jar slf4j-
+ api-1.7.13.jar pdfa-7.0.4.jar kernel-7.0.4.jar io-7.0.4.jar slf4j-api-1
+ .7.13.jar forms-7.0.4.jar kernel-7.0.4.jar io-7.0.4.jar layout-7.0.4.ja
+ r slf4j-api-1.7.13.jar io-7.0.4.jar slf4j-api-1.7.13.jar
+
